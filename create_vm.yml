@@ -22,6 +22,7 @@
         hostname: "{{ vcenter_hostname }}"
         username: "{{ vcenter_username }}"
         password: "{{ vcenter_password }}"
+        datacenter: "{{ vcenter_datacenter }}"
         validate_certs: false
         name: "{{ vm_name }}"
         state: powered-on
