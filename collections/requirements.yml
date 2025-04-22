@@ -2,3 +2,4 @@ collections:
   - name: https://github.com/pb82/vmware.vmware.git
     type: git
     version: main
+  - name: community.vmware
