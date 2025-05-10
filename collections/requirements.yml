@@ -2,3 +2,4 @@ collections:
   - name: https://github.com/ansible-collections/vmware.vmware.git
     type: git
     version: main
+  - name: community.vmware
